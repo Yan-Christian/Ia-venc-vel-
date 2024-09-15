@@ -1,0 +1,1 @@
+Parte verdadeira do Código
